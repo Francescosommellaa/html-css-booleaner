@@ -1,0 +1,113 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* dimensioni e sfondo header */
+header {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(32, 126, 250);
+    background-image: url(img/pattern.png);
+    background-position: 0px;
+}
+
+/* dimensione e posizione logo */
+.logo {
+    height: 50%;
+    margin: 50px 15%;
+}
+
+/* spazio bianco laterale */
+main,footer {
+    margin: 2% 15%;
+}
+
+/* dimensione e posizione del testo e delle info */
+section h1 {
+    font-size: 30px;
+    margin: 8px 0 4px 0;
+}
+
+section h4,h5  {
+    margin: 0;
+    font-size: 16px;
+    color: rgb(73, 73, 73);
+}
+
+section h5 {
+    margin-bottom: 16px;
+}
+
+.evidenziatoblu {
+    color: rgb(32, 126, 250);
+}
+
+section img {
+    border-radius: 8px;
+}
+
+/* dimensione e colore descrizione foto */
+.descrizionefoto {
+    font-size: 10px;
+    color: rgb(39, 39, 39);
+    margin-bottom: 2%;
+}
+
+/* dimensione testo paragrafo lista e tabella */
+.paragrafo {
+    font-size: 14px;
+}
+
+section p  {
+    margin: 2% 0;
+}
+
+
+table {
+    text-align: left;
+    margin: 20px 0; 
+}
+
+thead { 
+    color: white;
+    background-color: rgb(32, 126, 250);
+}
+
+td {
+    width: 33%;
+}
+
+.azzurra {
+    background-color: rgb(179, 211, 253);
+}
+
+/* testo evidenziato giallo */
+p span {
+    background-color: rgb(247, 247, 86);
+}
+
+/* immagini e titolo del footer */
+h4 {
+    color: rgb(121, 121, 121);
+}
+
+.imgmonitor {
+    height: 150px;
+    width: 200px;
+    background-image: url(img/monitor.jpg);
+    border-radius: 8px;
+    margin: 2% 0;
+}
+
+.graph {
+    height: 150px;
+    width: 200px;
+    background-image: url(img/graph.jpg);
+    border-radius: 8px;
+}
+
+footer h3 {
+    padding: 12px 0 0 12px;
+    color: white;
+}
