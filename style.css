@@ -1,0 +1,14 @@
+/* dimensioni e sfondo header */
+header {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(32, 126, 250);
+    background-image: url(img/pattern.png);
+    background-position: 0px;
+}
+
+/* dimensione e posizione logo */
+.logo {
+    height: 50%;
+    margin-top: 50px;
+}
