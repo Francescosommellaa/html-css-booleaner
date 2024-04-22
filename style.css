@@ -62,11 +62,12 @@ td {
     background-color: rgb(179, 211, 253);
 }
 
+/* testo evidenziato giallo */
 p span {
     background-color: rgb(247, 247, 86);
 }
 
-/* immagini del footer */
+/* immagini e titolo del footer */
 h4 {
     color: rgb(121, 121, 121);
 }
