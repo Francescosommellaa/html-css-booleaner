@@ -25,6 +25,43 @@ section h4,h5  {
     color: rgb(73, 73, 73);
 }
 
+section h5 {
+    margin-bottom: 16px;
+}
+
 .evidenziatoblu {
     color: rgb(32, 126, 250);
+}
+
+/* dimensione e colore descrizione foto */
+.descrizionefoto {
+    font-size: 10px;
+    color: rgb(39, 39, 39);
+}
+
+/* dimensione testo paragrafo lista e tabella */
+.paragrafo {
+    font-size: 14px;
+}
+
+table {
+    text-align: left;
+    margin-top: 20px;
+}
+
+thead { 
+    color: white;
+    background-color: rgb(32, 126, 250);
+}
+
+td {
+    width: 33%;
+}
+
+.azzurra {
+    background-color: rgb(179, 211, 253);
+}
+
+p span {
+    background-color: rgb(247, 247, 86);
 }
