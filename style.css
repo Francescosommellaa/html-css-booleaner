@@ -12,3 +12,19 @@ header {
     height: 50%;
     margin-top: 50px;
 }
+
+/* dimensione e posizione del testo e delle info */
+section h1 {
+    font-size: 30px;
+    margin: 8px 0 4px 0;
+}
+
+section h4,h5  {
+    margin: 0;
+    font-size: 16px;
+    color: rgb(73, 73, 73);
+}
+
+.evidenziatoblu {
+    color: rgb(32, 126, 250);
+}
